@@ -36,8 +36,8 @@ fetch(request)
 打开和复制脚本
 
 ```
-const SingleDay = 'appname.herokuapp.com'
-const DoubleDay = 'appname.herokuapp.com'
+const SingleDay = '域名'
+const DoubleDay = '域名'
 addEventListener(
     "fetch",event => {
     
